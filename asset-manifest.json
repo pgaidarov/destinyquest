@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/destinyquest/static/js/main.fa6cf244.js",
+    "index.html": "/destinyquest/index.html",
+    "main.fa6cf244.js.map": "/destinyquest/static/js/main.fa6cf244.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa6cf244.js"
+  ]
+}
